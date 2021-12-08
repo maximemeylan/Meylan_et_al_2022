@@ -1,4 +1,4 @@
-# Meylan et al. 2021 
+# Meylan et al. 2022
 
 This repository host the code used in our paper titled "Tertiary lymphoid structures generate and propagate anti-tumor antibody-producing plasma cells in renal cell cancer." currently in revision.
 
