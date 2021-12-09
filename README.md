@@ -12,10 +12,10 @@ Tertiary Lymphoid Structures and B cells positively impact cancer clinical outco
 
 Script detailing the pre-processing of Visium data are identified with the tag "00" and take as input the space ranger output (10X genomics).
 
-### R data analysis  
+### R data analysis Figure 1 and 2
 
 R scripts used to generate the figures 1 and 2 are identified with their corresponding tag "01" ans "02".
 
-### MiXCR clonotype analysis 
+### MiXCR clonotype analysis Figure 3
 
-Shell scripts used to perform the MiXCR analysis were run on both bulk or spatial data and take as argument: (1) the input directory (2) the outpour directory (3) the mixcr executable (4) file names. 
+Shell scripts (tag "03") used to perform the MiXCR analysis were run on both bulk or spatial data and take as argument: (1) the input directory (2) the outpout directory (3) the mixcr executable (4) file names. R scripts used to perform the downstream analysis bear the tag "03".
